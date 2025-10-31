@@ -1,0 +1,5 @@
+repositories:
+    av-stack-playground:
+        type: git
+        url: https://github.com/peeradonmoke2002/av-stack-playground.git
+        version: Integrate_Autoware
